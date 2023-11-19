@@ -1,0 +1,3 @@
+Esto es una prueba para comprobar que se traduce bien
+
+Esto es una segunda prueba
